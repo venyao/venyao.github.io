@@ -1,12 +1,5 @@
----
-layout: page
-title: Wen Yao
-tagline: 
----
 
-<head>
-<meta name="referrer" content="origin">
-</head>
+Wen Yao
 
 Ph. D.
 
