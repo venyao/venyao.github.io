@@ -1,5 +1,5 @@
 
-% Wen Yao
+# Wen Yao
 
 Ph. D.
 
@@ -11,8 +11,8 @@ Zhengzhou 450002, China
 
 
 # Education  
-Sep 2006 - Jun 2010, Wuhan university
-Sep 2010 - Dec 2016, Huazhong agricultural university
+Sep 2006 - Jun 2010, Wuhan university  
+Sep 2010 - Dec 2016, Huazhong agricultural university  
 
 
 # Publication  
