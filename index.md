@@ -13,8 +13,8 @@ Sep 2010 - Dec 2016, Huazhong agricultural university
 
 # Publication  
 ## First author and corresponding author  
-1. Wang J<sup>+</sup>, **Yao W**<sup>+</sup>, Zhu D, Xie W, Zhang Q. Genetic basis of sRNA quantitative variation analyzed using an experimental population derived from an elite rice hybrid. **eLife**, 2015 (<sup>+</sup> co-first author)  
-2. **Yao W**, Li G, Zhao H, Wang G, Lian X, Xie W. Exploring the rice dispensable genome using a metagenome-like assembly strategy. **Genome Biol**, 2015  
+1. Wang J<sup>+</sup>, **Yao W**<sup>+</sup>, Zhu D, Xie W, Zhang Q<sup>✉</sup>. [Genetic basis of sRNA quantitative variation analyzed using an experimental population derived from an elite rice hybrid](https://elifesciences.org/articles/03913). **eLife**, 2015 (<sup>+</sup> co-first author)  
+2. **Yao W**, Li G, Zhao H, Wang G, Lian X, Xie W<sup>✉</sup>. [Exploring the rice dispensable genome using a metagenome-like assembly strategy](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0757-3). **Genome Biol**, 2015  
 
 ## Contributing author  
 1. Zhou G, Chen Y, **Yao W**, Zhang C, Xie W, Hua J, Xing Y, Xiao J, Zhang Q. Genetic composition of yield heterosis in an elite rice hybrid. **Proc Natl Acad Sci U S A**, 2012  
@@ -25,7 +25,7 @@ Sep 2010 - Dec 2016, Huazhong agricultural university
 6. Yang Z, Ma H, Hong H, **Yao W**, Xie W, Xiao J, Li X, Wang S. Transcriptome-based analysis of mitogen-activated protein kinase cascades in the rice response to Xanthomonas oryzae infection. **Rice**, 2015  
 7. Zhang L, Li Q, Dong H, He Q, Liang L, Tan C, Han Z, **Yao W**, Li G, Zhao H, Xie W, Xing Y. Three CCT domain-containing genes were identified to regulate heading date by candidate gene-based association mapping and transformation in rice. **Sci Rep**, 2015  
 8. Zhang L<sup>+</sup>, Mao D<sup>+</sup>, Xing F, Bai X, Zhao H, **Yao W**, Li G, Xie W, Xing Y. Loss of function of OsMADS3 via the insertion of a novel retrotransposon leads to recessive male sterility in rice (*Oryza sativa*). **Plant Sci**, 2015 (<sup>+</sup> co-first author)  
-9. Zhao H, **Yao W**, Ouyang Y, Yang W, Wang G, Lian X, Xing Y, Chen L, Xie W. RiceVarMap: a comprehensive database of rice genomic variations. Nucleic Acids Res, 2015  
+9. Zhao H, **Yao W**, Ouyang Y, Yang W, Wang G, Lian X, Xing Y, Chen L, Xie W. RiceVarMap: a comprehensive database of rice genomic variations. **Nucleic Acids Res**, 2015  
 10. Magwa R, Zhao H, **Yao W**, Xie W, Yang L, Xing Y, Bai X. Genome-wide association analysis for awn length linked to the seed shattering gene *qSH1* in rice. **J Genet**, 2016  
 11.	Li Q, Yan W, Chen H, Tan C, Han Z, **Yao W**, Li G, Yuan M, Xing Y. Duplication of OsHAP family genes and their association with heading date in rice. **J Exp Bot**, 2016  
 12.	Zhang J<sup>+</sup>, Chen L-L<sup>+</sup>, Xing F<sup>+</sup>, Kudrna DA, **Yao W**, Copetti D, Mu T, Li W, Song J-M, Xie W, Lee S, Talag J, Shao L, An Y, Zhang C-L, Ouyang Y, Sun S, Jiao W-B, Lv F, Du B, Luo M, Maldonado C, Goicoechea J, Xiong L, Wu C, Xing Y, Zhou D, Yu S, Zhao Y, Wang G, Yu Y, Luo Y, Zhou Z, Hurtado B, Danowitz A, Wing R, Zhang Q. Extensive sequence divergence between the reference genomes of two elite indica rice varieties Zhenshan 97 and Minghui 63. **Proc Natl Acad Sci U S A**, 2016 (<sup>+</sup> co-first author)  
