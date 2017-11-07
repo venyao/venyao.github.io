@@ -1,8 +1,5 @@
----
-title: Wen Yao
----
 
-Wen Yao  
+**Wen Yao**  
 
 Ph. D.  
 
@@ -14,10 +11,10 @@ Zhengzhou 450002, China
 Sep 2006 - Jun 2010, Wuhan university  
 Sep 2010 - Dec 2016, Huazhong agricultural university  
 
-# Publication  
+# Publications  
 ## First author or corresponding author  
-1. Wang J<sup>+</sup>, **Yao W**<sup>+</sup>, Zhu D, Xie W, Zhang Q<sup>✉</sup>. [Genetic basis of sRNA quantitative variation analyzed using an experimental population derived from an elite rice hybrid](https://elifesciences.org/articles/03913). **eLife**, 2015 (<sup>+</sup> co-first author)  
-2. **Yao W**, Li G, Zhao H, Wang G, Lian X, Xie W<sup>✉</sup>. [Exploring the rice dispensable genome using a metagenome-like assembly strategy](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0757-3). **Genome Biol**, 2015  
+1. Wang J<sup>+</sup>, **Yao W**<sup>+</sup>, Zhu D, Xie W, Zhang Q<sup>✉</sup>. <a href="https://elifesciences.org/articles/03913" target="_blank">Genetic basis of sRNA quantitative variation analyzed using an experimental population derived from an elite rice hybrid</a>. **eLife**, 2015 (<sup>+</sup> co-first author)  
+2. **Yao W**, Li G, Zhao H, Wang G, Lian X, Xie W<sup>✉</sup>. <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0757-3" target="_blank">Exploring the rice dispensable genome using a metagenome-like assembly strategy</a>. **Genome Biol**, 2015  
 
 ## Contributing author  
 1. Zhou G, Chen Y, **Yao W**, Zhang C, Xie W, Hua J, Xing Y, Xiao J, Zhang Q<sup>✉</sup>. Genetic composition of yield heterosis in an elite rice hybrid. **Proc Natl Acad Sci U S A**, 2012  
