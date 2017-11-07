@@ -1,5 +1,6 @@
 ---
-title: Wen Yao
+title: "Wen Yao"
+output: html_document
 ---
 
 Wen Yao  
@@ -33,3 +34,4 @@ Sep 2010 - Dec 2016, Huazhong agricultural university
 11.	Li Q, Yan W, Chen H, Tan C, Han Z, **Yao W**, Li G, Yuan M, Xing Y<sup>✉</sup>. Duplication of *OsHAP* family genes and their association with heading date in rice. **J Exp Bot**, 2016  
 12.	Zhang J<sup>+</sup>, Chen L-L<sup>+</sup>, Xing F<sup>+</sup>, Kudrna DA, **Yao W**, Copetti D, Mu T, Li W, Song J-M, Xie W, Lee S, Talag J, Shao L, An Y, Zhang C-L, Ouyang Y, Sun S, Jiao W-B, Lv F, Du B, Luo M, Maldonado C, Goicoechea J, Xiong L, Wu C, Xing Y, Zhou D, Yu S, Zhao Y, Wang G, Yu Y, Luo Y, Zhou Z, Hurtado B, Danowitz A, Wing R<sup>✉</sup>, Zhang Q<sup>✉</sup>. Extensive sequence divergence between the reference genomes of two elite indica rice varieties Zhenshan 97 and Minghui 63. **Proc Natl Acad Sci U S A**, 2016 (<sup>+</sup> co-first author)  
 13.	Dong H, Zhao H, Xie W, Han Z, Li G, **Yao W**, Bai X, Hu Y, Guo Z, Lu K, Yang L, Xing Y<sup>✉</sup>. A Novel Tiller Angle Gene, *TAC3*, together with *TAC1* and *D2* Largely Determine the Natural Variation of Tiller Angle in Rice Cultivars. **PLoS Genetics**, 2016  
+
