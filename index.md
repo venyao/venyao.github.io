@@ -13,10 +13,10 @@ Sep 2010 - Dec 2016, College of Life Science and Technology, Huazhong agricultur
 
 # Publications  
 ## First author or corresponding author  
-1. Wang J<sup>+</sup>, **Yao W**<sup>+</sup>, Zhu D, Xie W, Zhang Q<sup>✉</sup>. <a href="https://elifesciences.org/articles/03913" target="_blank">Genetic basis of sRNA quantitative variation analyzed using an experimental population derived from an elite rice hybrid</a>. **eLife**, 2015 (<sup>+</sup> co-first author) (**IF=9.32**)  
-2. **Yao W**, Li G, Zhao H, Wang G, Lian X, Xie W<sup>✉</sup>. <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0757-3" target="_blank">Exploring the rice dispensable genome using a metagenome-like assembly strategy</a>. **Genome Biol**, 2015 (**IF=10.81**)  
-3. **Yao W**<sup>✉</sup>, Li G, Yu Y, Ouyang Y<sup>✉</sup>. funRiceGenes dataset for comprehensive understanding and application of rice functional genes. **GigaScience**, 2017 (accepted, **IF=6.871**)  
-4. Yu Y, Ouyang Y<sup>✉</sup>, **Yao W**<sup>✉</sup>. <a href="https://doi.org/10.1093/bioinformatics/btx763" target="_blank">shinyCircos: an R/Shiny application for interactive creation of Circos plot</a>. **Bioinformatics**, 2017 (**IF=7.307**)
+1. **Yao W**, Li G, Zhao H, Wang G, Lian X, Xie W<sup>✉</sup>. <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0757-3" target="_blank">Exploring the rice dispensable genome using a metagenome-like assembly strategy</a>. **Genome Biol**, 2015 (**IF=10.81**)  
+2. **Yao W**<sup>✉</sup>, Li G, Yu Y, Ouyang Y<sup>✉</sup>. <a href="https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix119/4689117" target="_blank">funRiceGenes dataset for comprehensive understanding and application of rice functional genes</a>. **GigaScience**, 2017 (**IF=6.871**)  
+3. Yu Y, Ouyang Y<sup>✉</sup>, **Yao W**<sup>✉</sup>. <a href="https://doi.org/10.1093/bioinformatics/btx763" target="_blank">shinyCircos: an R/Shiny application for interactive creation of Circos plot</a>. **Bioinformatics**, 2017 (**IF=7.307**)  
+4. Wang J<sup>+</sup>, **Yao W**<sup>+</sup>, Zhu D, Xie W, Zhang Q<sup>✉</sup>. <a href="https://elifesciences.org/articles/03913" target="_blank">Genetic basis of sRNA quantitative variation analyzed using an experimental population derived from an elite rice hybrid</a>. **eLife**, 2015 (<sup>+</sup> co-first author) (**IF=9.32**)  
 
 ## Contributing author  
 1. Zhou G, Chen Y, **Yao W**, Zhang C, Xie W, Hua J, Xing Y, Xiao J, Zhang Q<sup>✉</sup>. <a href="http://www.pnas.org/content/109/39/15847.long" target="_blank">Genetic composition of yield heterosis in an elite rice hybrid</a>. **Proc Natl Acad Sci U S A**, 2012  
