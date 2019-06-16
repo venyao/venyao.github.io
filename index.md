@@ -8,8 +8,12 @@ Henan Agricultural University
 Zhengzhou 450002, China  
 
 # Education  
-Sep 2010 - Dec 2016, College of Life Science and Technology, Huazhong agricultural university  
-Sep 2006 - Jun 2010, School of Mathematics and Statistics, Wuhan university  
+- Sep 2010 - Dec 2016, College of Life Science and Technology, Huazhong agricultural university  
+- Sep 2006 - Jun 2010, School of Mathematics and Statistics, Wuhan university  
+
+# Research experience  
+- Sep 2017 - , National Key Laboratory of Wheat and Maize Crop Science, College of Life Sciences, Henan Agricultural University  
+- Sep 2010 - Dec 2016, National Key Laboratory of Crop Genetic Improvement and National Centre of Plant Gene Research (Wuhan), Huazhong Agricultural University  
 
 # Links  
 - **ResearchGate**: <a href="https://www.researchgate.net/profile/Wen_Yao" target="_blank">https://www.researchgate.net/profile/Wen_Yao</a>  
