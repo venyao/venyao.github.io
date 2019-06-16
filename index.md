@@ -11,12 +11,24 @@ Zhengzhou 450002, China
 Sep 2010 - Dec 2016, College of Life Science and Technology, Huazhong agricultural university  
 Sep 2006 - Jun 2010, School of Mathematics and Statistics, Wuhan university  
 
+# Links  
+- ResearchGate: https://www.researchgate.net/profile/Wen_Yao  
+- GitHub: https://github.com/venyao  
+- Google Scholar: 
+
+# Softwares and Databases  
+- ECOGEMS: http://ecogems.ncpgr.cn/, http://150.109.59.144:3838/ECOGEMS/, https://github.com/venyao/ECOGEMS  
+- funRiceGenes: https://funricegenes.github.io/, http://funricegenes.ncpgr.cn/, http://150.109.59.144:3838/RICENCODE/  
+- shinyCircos: https://github.com/venyao/shinyCircos, http://150.109.59.144:3838/shinyCircos/, http://shinycircos.ncpgr.cn/, https://yimingyu.shinyapps.io/shinycircos/  
+- shinyChromosome: https://github.com/venyao/shinyChromosome, http://150.109.59.144:3838/shinyChromosome/, http://shinychromosome.ncpgr.cn/, https://yimingyu.shinyapps.io/shinychromosome/  
+- binQTL: https://github.com/venyao/binQTL, https://github.com/venyao/binQTL.shiny  
+
 # Publications  
 ## First author or corresponding author  
 1. **Yao W**<sup>✉</sup>, Huang F, Zhang X, Tang J<sup>✉</sup>. <a href="https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btz186/5380768" target="_blank">ECOGEMS: efficient compression and retrieve of SNP data of 2058 rice accessions with integer sparse matrices</a>. **Bioinformatics**, 2019  
 2. **Yao W**<sup>✉</sup>, Li G, Yu Y, Ouyang Y<sup>✉</sup>. <a href="https://academic.oup.com/gigascience/article/7/1/gix119/4689117" target="_blank">funRiceGenes dataset for comprehensive understanding and application of rice functional genes</a>. **GigaScience**, 2017  
 3. Yu Y, Ouyang Y<sup>✉</sup>, **Yao W**<sup>✉</sup>. <a href="https://doi.org/10.1093/bioinformatics/btx763" target="_blank">shinyCircos: an R/Shiny application for interactive creation of Circos plot</a>. **Bioinformatics**, 2017  
-4. **Yao W**, Li G, Zhao H, Wang G, Lian X, Xie W<sup>✉</sup>. <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0757-3" target="_blank">Exploring the rice dispensable genome using a metagenome-like assembly strategy</a>. **Genome Biol**, 2015  
+4. **Yao W**, Li G, Zhao H, Wang G, Lian X, Xie W<sup>✉</sup>. <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0757-3" target="_blank">Exploring the rice dispensable genome using a metagenome-like assembly strategy</a>. **Genome Biology**, 2015  
 5. Wang J<sup>+</sup>, **Yao W**<sup>+</sup>, Zhu D, Xie W, Zhang Q<sup>✉</sup>. <a href="https://elifesciences.org/articles/03913" target="_blank">Genetic basis of sRNA quantitative variation analyzed using an experimental population derived from an elite rice hybrid</a>. **eLife**, 2015 (<sup>+</sup> co-first author)  
 
 ## Contributing author  
