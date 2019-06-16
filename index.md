@@ -12,16 +12,16 @@ Sep 2010 - Dec 2016, College of Life Science and Technology, Huazhong agricultur
 Sep 2006 - Jun 2010, School of Mathematics and Statistics, Wuhan university  
 
 # Links  
-- **ResearchGate**: [https://www.researchgate.net/profile/Wen_Yao](https://www.researchgate.net/profile/Wen_Yao)  
-- **GitHub**: [https://github.com/venyao](https://github.com/venyao)  
+- **ResearchGate**: <a href="https://www.researchgate.net/profile/Wen_Yao" target="_blank">www.researchgate.net/profile/Wen_Yao</a>  
+- **GitHub**: <a href="https://github.com/venyao" target="_blank">github.com/venyao</a>  
 - **Google Scholar**: 
 
 # Softwares and Databases  
-- **ECOGEMS**: [http://ecogems.ncpgr.cn/](http://ecogems.ncpgr.cn/), [http://150.109.59.144:3838/ECOGEMS/](http://150.109.59.144:3838/ECOGEMS/), [https://github.com/venyao/ECOGEMS](https://github.com/venyao/ECOGEMS)  
-- **funRiceGenes**: [https://funricegenes.github.io/](https://funricegenes.github.io/), [http://funricegenes.ncpgr.cn/](http://funricegenes.ncpgr.cn/), [http://150.109.59.144:3838/RICENCODE/](http://150.109.59.144:3838/RICENCODE/)  
-- **shinyCircos**: [https://github.com/venyao/shinyCircos](https://github.com/venyao/shinyCircos), [http://150.109.59.144:3838/shinyCircos/](http://150.109.59.144:3838/shinyCircos/), [http://shinycircos.ncpgr.cn/](http://shinycircos.ncpgr.cn/), [https://yimingyu.shinyapps.io/shinycircos/](https://yimingyu.shinyapps.io/shinycircos/)  
-- **shinyChromosome**: [https://github.com/venyao/shinyChromosome](https://github.com/venyao/shinyChromosome), [http://150.109.59.144:3838/shinyChromosome/](http://150.109.59.144:3838/shinyChromosome/), [http://shinychromosome.ncpgr.cn/](http://shinychromosome.ncpgr.cn/), [https://yimingyu.shinyapps.io/shinychromosome/](https://yimingyu.shinyapps.io/shinychromosome/)  
-- **binQTL**: [https://github.com/venyao/binQTL](https://github.com/venyao/binQTL), [https://github.com/venyao/binQTL.shiny](https://github.com/venyao/binQTL.shiny)  
+- **ECOGEMS**: <a href="http://ecogems.ncpgr.cn/" target="_blank">ecogems.ncpgr.cn</a>, <a href="http://150.109.59.144:3838/ECOGEMS/" target="_blank">150.109.59.144:3838/ECOGEMS/</a>, <a href="https://github.com/venyao/ECOGEMS" target="_blank">github.com/venyao/ECOGEMS</a>  
+- **funRiceGenes**: <a href="https://funricegenes.github.io/" target="_blank">funricegenes.github.io/</a>, <a href="http://funricegenes.ncpgr.cn/" target="_blank">funricegenes.ncpgr.cn/</a>, <a href="http://150.109.59.144:3838/RICENCODE/" target="_blank">150.109.59.144:3838/RICENCODE/</a>  
+- **shinyCircos**: <a href="https://github.com/venyao/shinyCircos" target="_blank">github.com/venyao/shinyCircos</a>, <a href="http://150.109.59.144:3838/shinyCircos/" target="_blank">150.109.59.144:3838/shinyCircos/</a>, <a href="http://shinycircos.ncpgr.cn/" target="_blank">shinycircos.ncpgr.cn</a>, <a href="https://yimingyu.shinyapps.io/shinycircos/" target="_blank">yimingyu.shinyapps.io/shinycircos/</a>  
+- **shinyChromosome**: <a href="https://github.com/venyao/shinyChromosome" target="_blank">github.com/venyao/shinyChromosome</a>, <a href="http://150.109.59.144:3838/shinyChromosome/" target="_blank">150.109.59.144:3838/shinyChromosome</a>, <a href="http://shinychromosome.ncpgr.cn/" target="_blank">shinychromosome.ncpgr.cn</a>, <a href="https://yimingyu.shinyapps.io/shinychromosome/" target="_blank">yimingyu.shinyapps.io/shinychromosome</a>  
+- **binQTL**: <a href="https://github.com/venyao/binQTL" target="_blank">https://github.com/venyao/binQTL</a>, <a href="https://github.com/venyao/binQTL.shiny" target="_blank">https://github.com/venyao/binQTL.shiny</a>  
 
 # Publications  
 ## First author or corresponding author  
