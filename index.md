@@ -30,7 +30,7 @@ Zhengzhou 450002, China
 # Publications  
 ## First author or corresponding author  
 1. **Yao W**<sup>+</sup>, Li G<sup>+</sup>, Cui Y, Yu Y, Zhang Q<sup>✉</sup>, Xu S<sup>✉</sup>. <a href="" target="_blank">Mapping quantitative trait loci using binned genotypes</a>. **Journal of Genetics and Genomics**, 2019 (<sup>+</sup> co-first author)  
-2. **Yao W**<sup>✉</sup>, Huang F, Zhang X, Tang J<sup>✉</sup>. <a href="https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btz186/5380768" target="_blank">ECOGEMS: efficient compression and retrieve of SNP data of 2058 rice accessions with integer sparse matrices</a>. **Bioinformatics**, 2019  
+2. **Yao W**<sup>✉</sup>, Huang F, Zhang X, Tang J<sup>✉</sup>. <a href="https://doi.org/10.1093/bioinformatics/btz186" target="_blank">ECOGEMS: efficient compression and retrieve of SNP data of 2058 rice accessions with integer sparse matrices</a>. **Bioinformatics**, 2019  
 3. **Yao W**<sup>✉</sup>, Li G, Yu Y, Ouyang Y<sup>✉</sup>. <a href="https://academic.oup.com/gigascience/article/7/1/gix119/4689117" target="_blank">funRiceGenes dataset for comprehensive understanding and application of rice functional genes</a>. **GigaScience**, 2017  
 4. Yu Y, Ouyang Y<sup>✉</sup>, **Yao W**<sup>✉</sup>. <a href="https://doi.org/10.1093/bioinformatics/btx763" target="_blank">shinyCircos: an R/Shiny application for interactive creation of Circos plot</a>. **Bioinformatics**, 2017  
 5. **Yao W**, Li G, Zhao H, Wang G, Lian X, Xie W<sup>✉</sup>. <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0757-3" target="_blank">Exploring the rice dispensable genome using a metagenome-like assembly strategy</a>. **Genome Biology**, 2015  
