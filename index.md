@@ -26,6 +26,7 @@ Zhengzhou 450002, China
 - **shinyCircos**: <a href="https://github.com/venyao/shinyCircos" target="_blank">https://github.com/venyao/shinyCircos</a>, <a href="http://150.109.59.144:3838/shinyCircos/" target="_blank">http://150.109.59.144:3838/shinyCircos/</a>, <a href="http://shinycircos.ncpgr.cn/" target="_blank">http://shinycircos.ncpgr.cn</a>, <a href="https://yimingyu.shinyapps.io/shinycircos/" target="_blank">https://yimingyu.shinyapps.io/shinycircos/</a>  
 - **shinyChromosome**: <a href="https://github.com/venyao/shinyChromosome" target="_blank">https://github.com/venyao/shinyChromosome</a>, <a href="http://150.109.59.144:3838/shinyChromosome/" target="_blank">http://150.109.59.144:3838/shinyChromosome</a>, <a href="http://shinychromosome.ncpgr.cn/" target="_blank">http://shinychromosome.ncpgr.cn</a>, <a href="https://yimingyu.shinyapps.io/shinychromosome/" target="_blank">https://yimingyu.shinyapps.io/shinychromosome</a>  
 - **binQTL**: <a href="https://github.com/venyao/binQTL" target="_blank">https://github.com/venyao/binQTL</a>, <a href="https://github.com/venyao/binQTL.shiny" target="_blank">https://github.com/venyao/binQTL.shiny</a>, <a href="http://150.109.59.144:3838/binQTL.shiny/" target="_blank">http://150.109.59.144:3838/binQTL.shiny/</a>  
+- **MaizeSNPDB**: <a href="https://github.com/venyao/MaizeSNPDB" target="_blank">https://github.com/venyao/MaizeSNPDB</a>, <a href="http://150.109.59.144:3838/MaizeSNPDB/" target="_blank">http://150.109.59.144:3838/MaizeSNPDB/</a>  
 
 # Publications  
 ## First author or corresponding author  
