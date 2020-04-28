@@ -31,6 +31,7 @@ Zhengzhou 450002, China
 
 # Publications  
 ## First author or corresponding author  
+- Jia L​<sup>+</sup>, Liu N<sup>+</sup>​, Huang F, Zhou Z, He X, Li H, Wang Z, **Yao W**<sup>✉</sup>​. <a href="https://peerj.com/articles/8867/" target="_blank">intansv: an R package for integrative analysis of structural variations</a>. **PeerJ**, 2020 (<sup>+</sup> co-first author)  
 - Yu Y<sup>+</sup>, **Yao W**<sup>+</sup><sup>✉</sup>, Wang Y, Huang F. <a href="https://doi.org/10.1016/j.gpb.2019.07.003" target="_blank">shinyChromosome: An R/Shiny Application for Interactive Creation of Non-circular Plots of Whole Genomes</a>. **Genomics, Proteomics & Bioinformatics**, 2020 (<sup>+</sup> co-first author)  
 - Zhou W, Wang L, Zheng W<sup>✉</sup>, **Yao W**<sup>✉</sup>. <a href="https://doi.org/10.1016/j.csbj.2019.10.003" target="_blank">MaizeSNPDB: a comprehensive database for efficient retrieve and analysis of SNPs among 1210 maize lines</a>. **Computational and Structural Biotechnology Journal**, 2019  
 - **Yao W**<sup>+</sup>, Li G<sup>+</sup>, Cui Y, Yu Y, Zhang Q<sup>✉</sup>, Xu S<sup>✉</sup>. <a href="https://www.sciencedirect.com/science/article/pii/S167385271930116X" target="_blank">Mapping quantitative trait loci using binned genotypes</a>. **Journal of Genetics and Genomics**, 2019 (<sup>+</sup> co-first author)  
