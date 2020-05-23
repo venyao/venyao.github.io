@@ -7,6 +7,8 @@ College of Life Sciences
 Henan Agricultural University  
 Zhengzhou 450002, China  
 
+<span id="badgeCont784"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont784&rid=AAO-6467-2020"></script></span>
+
 # Education  
 - Sep 2010 - Dec 2016, College of Life Science and Technology, Huazhong agricultural university  
 - Sep 2006 - Jun 2010, School of Mathematics and Statistics, Wuhan university  
