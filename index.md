@@ -33,6 +33,7 @@ Zhengzhou 450002, China
 
 # Publications  
 ## First author or corresponding author  
+- Xin Wang<sup>+</sup>, Xin Yan<sup>+</sup>, Xiaoxiao Tian<sup>+</sup>, Zongfei Zhang, Weiwei Wu, Junjun Shang, Jiexiu Ouyang, **Wen Yao**<sup>✉</sup>​, Shaobo Li<sup>✉</sup>​. <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jafc.0c01803" target="_blank">A glycine-and proline-rich protein OsGPRP3 regulates grain size and quality in rice</a>. **Journal of Agricultural and Food Chemistry**, 2020 (<sup>+</sup> co-first author)  
 - Jia L​<sup>+</sup>, Liu N<sup>+</sup>​, Huang F, Zhou Z, He X, Li H, Wang Z, **Yao W**<sup>✉</sup>​. <a href="https://peerj.com/articles/8867/" target="_blank">intansv: an R package for integrative analysis of structural variations</a>. **PeerJ**, 2020 (<sup>+</sup> co-first author)  
 - Yu Y<sup>+</sup>, **Yao W**<sup>+</sup><sup>✉</sup>, Wang Y, Huang F. <a href="https://doi.org/10.1016/j.gpb.2019.07.003" target="_blank">shinyChromosome: An R/Shiny Application for Interactive Creation of Non-circular Plots of Whole Genomes</a>. **Genomics, Proteomics & Bioinformatics**, 2020 (<sup>+</sup> co-first author)  
 - Zhou W, Wang L, Zheng W<sup>✉</sup>, **Yao W**<sup>✉</sup>. <a href="https://doi.org/10.1016/j.csbj.2019.10.003" target="_blank">MaizeSNPDB: a comprehensive database for efficient retrieve and analysis of SNPs among 1210 maize lines</a>. **Computational and Structural Biotechnology Journal**, 2019  
